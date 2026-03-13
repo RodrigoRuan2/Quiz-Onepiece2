@@ -1,0 +1,30 @@
+.question-container {
+  text-align: center;
+}
+
+.option-button {
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background-color: #facc15;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.option-button:hover {
+  transform: scale(1.05);
+}
+
+.result-container {
+  text-align: center;
+}
+
+.restart-button {
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: #38bdf8;
+}
