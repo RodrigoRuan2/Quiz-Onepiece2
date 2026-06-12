@@ -4,7 +4,7 @@ Teste seus conhecimentos sobre o universo de One Piece com esse quiz interativo 
 
 🚀 Funcionalidades
 
-✅ Perguntas sobre personagens, arcos e curiosidades de One Piece
+✅ Perguntas sobre personagens, arcos e curiosidades de One Piec
 ✅ Pontuação em tempo real
 ✅ Feedback visual para respostas certas e erradas
 ✅ Tela de resultado ao final do quiz
